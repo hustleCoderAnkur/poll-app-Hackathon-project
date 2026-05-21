@@ -5,10 +5,10 @@ A full-stack real-time polling application where users can create polls, vote in
 ## Repositories
 
 ### Frontend
-:contentReference[oaicite:0]{index=0}
+https://github.com/hustleCoderAnkur/poll-app-frontend
 
 ### Backend
-:contentReference[oaicite:1]{index=1}
+https://github.com/hustleCoderAnkur/poll-app-backend
 
 ---
 
